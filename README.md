@@ -1,7 +1,7 @@
 # Various collection created by LEE SEOMIN
 
 
-  <img src="https://github.com/leeseomin/block/blob/main/block/BLOCK5.png" width="1800">
+  <img src="https://github.com/leeseomin/block/blob/main/block/BLOCK5.png" width="2000">
 
 
 ### Art Gallery
