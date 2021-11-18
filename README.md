@@ -31,6 +31,8 @@ https://twitter.com/techne_0_1
 
 ### Algorithms
 
+https://telegra.ph/Arte--art-algorithm-series-08-12 
+
 https://github.com/leeseomin/arte1
 
 https://github.com/leeseomin/arte8
@@ -88,3 +90,6 @@ https://github.com/leeseomin/arte27
 https://github.com/leeseomin/arte57 
 
 https://github.com/leeseomin/arte59 
+
+
+
