@@ -1,5 +1,4 @@
-# LEE SEOMIN's collection
-
+# Various collection created by LEE SEOMIN
 
 
 
