@@ -12,6 +12,8 @@ https://async.art/u/leeseomin/collection  (NFT gallery collection II)
 
 https://github.com/leeseomin/block (Block collection)
 
+https://github.com/leeseomin/minimal (Minimal collection)
+
 https://github.com/leeseomin/pixelart  (Pixel collection)
 
 https://github.com/leeseomin/arising  (Dependent Arising collection)
