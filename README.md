@@ -20,7 +20,7 @@ https://github.com/leeseomin/arising  (Dependent Arising collection)
 
 https://github.com/leeseomin/Mural_7000AD  (Mural painting in 7,000 A.D collection)
 
-https://opensea.io/LEE_SEOMIN  (OpenSea)
+https://github.com/leeseomin/DeathIsTheKing ("Death is the king of this world" collection)
 
 
 
