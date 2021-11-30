@@ -22,6 +22,8 @@ https://github.com/leeseomin/Mural_7000AD  (Mural painting in 7,000 A.D collecti
 
 https://github.com/leeseomin/DeathIsTheKing ("Death is the king of this world" collection)
 
+https://github.com/leeseomin/AIART ("AI, Me, Coincidence, Art" collection)
+
 
 
 ### Contact 
