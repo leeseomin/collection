@@ -26,7 +26,7 @@ https://github.com/leeseomin/Remastering_masterpieces (Remastering masterpieces 
 
 https://github.com/leeseomin/AIART ("AI, Me, Coincidence, Art" collection)
 
-https://github.com/leeseomin/chaos (Chaos collection)
+https://github.com/leeseomin/chaos ("Chaos" collection)
 
 
 
