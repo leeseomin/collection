@@ -12,6 +12,8 @@ https://async.art/u/leeseomin/collection  (NFT gallery collection II)
 
 https://github.com/leeseomin/block (Block collection)
 
+https://github.com/leeseomin/The_beginning_of_disappearance ("The beginning of disappearance" collection)
+
 https://github.com/leeseomin/minimal (Minimal collection)
 
 https://github.com/leeseomin/pixelart  (Pixel collection)
