@@ -32,6 +32,8 @@ https://github.com/leeseomin/DeathIsTheKing ("Death is the king of this world" c
 
 https://github.com/leeseomin/look_at  ("Look At" art project)
 
+https://github.com/leeseomin/BTTG  ("Back To The Geometry" Art project)
+
 https://github.com/leeseomin/Remastering_masterpieces (Remastering masterpieces to NFT)
 
 https://github.com/leeseomin/AIART ("AI, Me, Coincidence, Art" collection)
