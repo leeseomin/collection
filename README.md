@@ -58,7 +58,7 @@ https://github.com/leeseomin/AIART ("AI, Me, Coincidence, Art" collection)
 
 https://github.com/leeseomin/chaos ("Chaos" collection)
 
-
+  <br/>  <br/>  
 
 ### Contact 
 
@@ -67,7 +67,7 @@ leeseomin@gmail.com
  
 https://twitter.com/techne_0_1
 
-
+  <br/>  <br/>  
 
 ### Algorithms
 
