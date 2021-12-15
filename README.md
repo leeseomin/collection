@@ -12,9 +12,11 @@ https://github.com/leeseomin/look_at  ("Look At" art project)
 
 https://github.com/leeseomin/block (Block collection)
 
+https://github.com/leeseomin/minimal (Minimal collection)  
+
 https://github.com/leeseomin/Will_to_live ("Will to live" Art project)
 
-https://github.com/leeseomin/minimal (Minimal collection) 
+https://github.com/leeseomin/pixelart  (Pixel collection) 
 
 
   <br/>  <br/> 
@@ -38,7 +40,7 @@ https://github.com/leeseomin/The_beginning_of_disappearance ("The beginning of d
 
 
 
-https://github.com/leeseomin/pixelart  (Pixel collection)
+
 
 https://github.com/leeseomin/arising  (Dependent Arising collection)
 
