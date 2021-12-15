@@ -35,11 +35,9 @@ https://rarible.com/leeseomin    (NFT gallery collection III)
 
 
 
+###  other 
 
 https://github.com/leeseomin/The_beginning_of_disappearance ("The beginning of disappearance" collection)
-
-
-
 
 
 https://github.com/leeseomin/arising  (Dependent Arising collection)
