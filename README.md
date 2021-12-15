@@ -14,6 +14,7 @@ https://rarible.com/leeseomin    (NFT gallery collection II)
 https://kalamint.io/user/techne_0_1   (NFT gallery collection III)
 
 
+  <br/>  <br/>  
 
 https://github.com/leeseomin/look_at  ("Look At" art project)
 
@@ -22,6 +23,9 @@ https://github.com/leeseomin/block (Block collection)
 https://github.com/leeseomin/Will_to_live ("Will to live" Art project)
 
 https://github.com/leeseomin/minimal (Minimal collection) 
+
+
+  <br/>  <br/> 
 
 https://github.com/leeseomin/The_beginning_of_disappearance ("The beginning of disappearance" collection)
 
