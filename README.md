@@ -18,6 +18,8 @@ https://github.com/leeseomin/minimal (Minimal collection)
 
 https://github.com/leeseomin/Will_to_live ("Will to live" Art project)
 
+https://github.com/leeseomin/BTTG  ("Back To The Geometry" Art project)
+
 https://github.com/leeseomin/pixelart  (Pixel collection) 
 
 
@@ -52,7 +54,6 @@ https://github.com/leeseomin/DeathIsTheKing ("Death is the king of this world" c
 
 
 
-https://github.com/leeseomin/BTTG  ("Back To The Geometry" Art project)
 
 https://github.com/leeseomin/Remastering_masterpieces (Remastering masterpieces to NFT)
 
