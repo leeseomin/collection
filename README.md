@@ -16,6 +16,8 @@ https://github.com/leeseomin/timaeus  ("Timaeus : speculation on the modern beau
 
 https://github.com/leeseomin/minimal (Minimal collection)  
 
+https://github.com/leeseomin/mysoul ("My Soul" art project)
+
 https://github.com/leeseomin/Will_to_live ("Will to live" Art project)
 
 https://github.com/leeseomin/BTTG  ("Back To The Geometry" Art project)
