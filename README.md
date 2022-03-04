@@ -29,14 +29,17 @@ https://github.com/leeseomin/empty  ("empty" Art project)
 
   <br/>  <br/> 
 
-### Art Gallery
+### Art collection  in NFT marketplace 
 
 
-https://async.art/u/leeseomin/collection  (NFT gallery collection I)
+https://async.art/u/leeseomin/collection  (Async Art )
 
-https://kalamint.io/user/techne_0_1   (NFT gallery collection II)
+https://foundation.app/@Techne_0_1  ( Foundation )
 
-https://rarible.com/leeseomin    (NFT gallery collection III)
+https://rarible.com/leeseomin    (Rarible)
+
+https://kalamint.io/user/techne_0_1   ( Kalamint )
+
 
 
   <br/>  <br/>  
