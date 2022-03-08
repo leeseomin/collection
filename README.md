@@ -10,7 +10,9 @@
 ### Art project
 
 
-https://github.com/leeseomin/look_at  ("Look At" art project)
+https://github.com/leeseomin/mysoul ("My Soul" art project)
+
+https://github.com/leeseomin/Untitled ("Untitled" collection)
 
 https://github.com/leeseomin/block (Block collection)
 
@@ -18,13 +20,12 @@ https://github.com/leeseomin/timaeus  ("Timaeus : speculation on the modern beau
 
 https://github.com/leeseomin/minimal (Minimal collection)  
 
-https://github.com/leeseomin/mysoul ("My Soul" art project)
-
 https://github.com/leeseomin/pixelart  (Pixel collection) 
 
-https://github.com/leeseomin/Untitled ("Untitled" collection)
-
 https://github.com/leeseomin/dance ("Neural Dance" art collection)
+
+https://github.com/leeseomin/look_at  ("Look At" art project)
+
 
 https://github.com/leeseomin/Will_to_live ("Will to live" Art project)
 
