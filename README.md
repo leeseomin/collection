@@ -82,6 +82,11 @@ https://github.com/leeseomin/AIART ("AI, Me, Coincidence, Art" collection)
 https://github.com/leeseomin/chaos ("Chaos" collection)
 
   <br/>  <br/>  
+  
+  
+### Poetry
+
+https://github.com/leeseomin/poem2022  
 
 ### Contact 
 
