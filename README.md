@@ -9,14 +9,13 @@
 ### Art project
 
 
-https://github.com/leeseomin/mysoul ("My Soul" art project)
-
-https://github.com/leeseomin/Untitled ("Untitled" collection)
-
 https://github.com/leeseomin/Abstract ("Abstract art" collection)
 
 https://github.com/leeseomin/Abstract3 ("Abstract art" collection)
 
+https://github.com/leeseomin/mysoul ("My Soul" art project)
+
+https://github.com/leeseomin/Untitled ("Untitled" collection)
 
 https://github.com/leeseomin/dance ("Neural Dance" art collection) 
 
