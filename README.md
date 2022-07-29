@@ -3,7 +3,12 @@
 
 
   <br/>  <br/> 
+  
+  Digital Artist
+  
+  AI Abstract Artist
 
+  <br/>  <br/> 
 
 
 ### Art project
