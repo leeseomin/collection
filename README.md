@@ -4,9 +4,9 @@
 
   <br/>  <br/> 
   
-  Digital Artist
+ ###  Digital Artist
   
-  AI Abstract Artist
+ ### AI Abstract Artist
 
   <br/>  <br/> 
 
