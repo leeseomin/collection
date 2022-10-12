@@ -6,7 +6,7 @@
   
  ### :o: Digital Artist
   
- ### :o: AI Abstract Artist
+ ### :o: Abstract Artist
 
   <br/>  <br/> 
 
