@@ -20,6 +20,8 @@ https://github.com/leeseomin/Abstract3 ("Abstract art" collection)
 
 https://github.com/leeseomin/Abstract4 ("Abstract art" collection)
 
+https://github.com/leeseomin/intheroom ("in the room" art project)
+
 https://vimeo.com/user80411483         ("Video Art" collection)
 
 https://github.com/leeseomin/mysoul ("My Soul" art project)
