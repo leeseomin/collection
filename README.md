@@ -4,7 +4,7 @@
 
   <br/>  <br/> 
   
- ### :o: Digital Artist
+ ### :o: Visual Artist
   
  ### :o: Abstract Artist
 
