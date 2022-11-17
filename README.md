@@ -20,9 +20,9 @@ https://github.com/leeseomin/Abstract3 ("Abstract art" collection)
 
 https://github.com/leeseomin/Abstract4 ("Abstract art" collection)
 
-https://github.com/leeseomin/Unknown-Mediterranean ("Unknown Mediterranean" Art collection)
+https://github.com/leeseomin/skull_abstract_butterfly ("skull, abstract, butterfly"  project) 
 
-https://github.com/leeseomin/intheroom ("in the room" art project)
+https://github.com/leeseomin/Unknown-Mediterranean ("Unknown Mediterranean" Art collection)
 
 https://vimeo.com/user80411483         ("Video Art" collection)
 
