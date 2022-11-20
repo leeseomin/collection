@@ -22,7 +22,7 @@ https://github.com/leeseomin/Abstract4 ("Abstract art" collection)
 
 https://github.com/leeseomin/skull_abstract_butterfly ("skull, abstract, butterfly"  project) 
 
-https://github.com/leeseomin/robot_smile  ("Smiling of a robot whose will to live is broken" project)
+https://github.com/leeseomin/robot_smile  ("Smiling of a robot whose 'will to live' is broken" project)
 
 https://github.com/leeseomin/Unknown-Mediterranean ("Unknown Mediterranean" Art collection)
 
