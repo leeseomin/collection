@@ -24,6 +24,8 @@ https://github.com/leeseomin/skull_abstract_butterfly ("skull, abstract, butterf
 
 https://github.com/leeseomin/robot_smile  ("Smiling of a robot whose 'will to live' is broken" project)
 
+https://github.com/leeseomin/The-Girl-from-the-Emptiness  ("The Girl from the Emptiness" project)
+
 https://github.com/leeseomin/Unknown-Mediterranean ("Unknown Mediterranean" Art collection)
 
 https://vimeo.com/user80411483         ("Video Art" collection)
