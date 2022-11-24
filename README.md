@@ -26,7 +26,9 @@ https://github.com/leeseomin/robot_smile  ("Smiling of a robot whose 'will to li
 
 https://github.com/leeseomin/The-Girl-from-the-Emptiness  ("The Girl from the Emptiness" project)
 
-https://github.com/leeseomin/Unknown-Mediterranean ("Unknown Mediterranean" Art collection)
+https://github.com/leeseomin/Unknown-Mediterranean ("Unknown Mediterranean" Art project)
+ 
+https://github.com/leeseomin/living_lake ("Living Lake" art project)
 
 https://vimeo.com/user80411483         ("Video Art" collection)
 
