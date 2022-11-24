@@ -20,6 +20,8 @@ https://github.com/leeseomin/Abstract3 ("Abstract art" collection)
 
 https://github.com/leeseomin/Abstract4 ("Abstract art" collection)
 
+https://github.com/leeseomin/concept_art  ("concept_art" collection)
+
 https://github.com/leeseomin/skull_abstract_butterfly ("skull, abstract, butterfly"  project) 
 
 https://github.com/leeseomin/robot_smile  ("Smiling of a robot whose 'will to live' is broken" project)
