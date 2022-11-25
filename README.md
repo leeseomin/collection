@@ -25,6 +25,8 @@ https://github.com/leeseomin/concept_art  ("concept_art" collection)
 https://github.com/leeseomin/skull_abstract_butterfly ("skull, abstract, butterfly"  project) 
 
 https://github.com/leeseomin/robot_smile  ("Smiling of a robot whose 'will to live' is broken" project)
+ 
+https://github.com/leeseomin/Relax-under-the-tree ("Relax under the tree" project)
 
 https://github.com/leeseomin/The-Girl-from-the-Emptiness  ("The Girl from the Emptiness" project)
 
