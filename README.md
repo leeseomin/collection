@@ -31,6 +31,8 @@ https://github.com/leeseomin/Relax-under-the-tree ("Relax under the tree" projec
 https://github.com/leeseomin/The-Girl-from-the-Emptiness  ("The Girl from the Emptiness" project)
 
 https://github.com/leeseomin/Unknown-Mediterranean ("Unknown Mediterranean" Art project)
+
+https://github.com/leeseomin/baobab  ("Baobab" project)
  
 https://github.com/leeseomin/living_lake ("Living Lake" art project)
 
