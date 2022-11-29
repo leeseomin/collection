@@ -53,7 +53,6 @@ https://github.com/leeseomin/minimal (Minimal collection)
 https://github.com/leeseomin/pixelart  (Pixel collection) 
 
 
-
 https://github.com/leeseomin/look_at  ("Look At" art project)
 
 
@@ -64,6 +63,8 @@ https://github.com/leeseomin/BTTG  ("Back To The Geometry" Art project)
 
 https://github.com/leeseomin/empty  ("empty" Art project)
 
+
+https://github.com/leeseomin/Robot_become_Singularity_1  ("Robot become Singularity" part_1)
 
   <br/>  <br/> 
 
