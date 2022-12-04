@@ -69,6 +69,8 @@ https://github.com/leeseomin/paper-birch-tree ("paper-birch-tree")
 
 https://github.com/leeseomin/Robot_become_Singularity_1  ("Robot become Singularity" part_1)
 
+https://github.com/leeseomin/collaboration_with_AI_street_alley  ("collaboration with AI : street and alley landscape")
+
   <br/>  <br/> 
 
 ### Art collection  in NFT marketplace 
