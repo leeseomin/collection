@@ -71,6 +71,8 @@ https://github.com/leeseomin/Robot_become_Singularity_1  ("Robot become Singular
 
 https://github.com/leeseomin/collaboration_with_AI_street_alley  ("collaboration with AI : street and alley landscape")
 
+https://github.com/leeseomin/Fairy-Tale-Village  ("Fairy-Tale-Village")
+
   <br/>  <br/> 
 
 ### Art collection  in NFT marketplace 
