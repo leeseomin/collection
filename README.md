@@ -73,7 +73,7 @@ https://github.com/leeseomin/collaboration_with_AI_street_alley  ("collaboration
 
 https://github.com/leeseomin/Fairy-Tale-Village  ("Fairy-Tale-Village")
 
-https://github.com/leeseomin/Coordinates-being-and-duration   ("Coordinates,Being and Duration" project)
+https://github.com/leeseomin/Coordinates-being-and-duration   ("Coordinates,Being and Duration" project),  youtube :  https://youtu.be/0owECCNnXkk
 
   <br/>  <br/> 
 
