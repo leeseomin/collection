@@ -71,7 +71,7 @@ https://github.com/leeseomin/Robot_become_Singularity_1  ("Robot become Singular
 
 https://github.com/leeseomin/collaboration_with_AI_street_alley  ("collaboration with AI : street and alley landscape")
 
-https://github.com/leeseomin/Fairy-Tale-Village  ("Fairy-Tale-Village")
+https://github.com/leeseomin/Fairy-Tale-Village  ("Fairy-Tale-Village"), on youtube :  https://youtu.be/RUV0UzpZcvE
 
 https://github.com/leeseomin/Coordinates-being-and-duration   ("Coordinates,Being and Duration" project),  
 on youtube :  [https://youtu.be/0owECCNnXkk](https://youtube.com/shorts/0owECCNnXkk)
