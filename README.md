@@ -77,7 +77,7 @@ https://github.com/leeseomin/Coordinates-being-and-duration   ("Coordinates,Bein
 on youtube :  [https://youtu.be/0owECCNnXkk](https://youtube.com/shorts/0owECCNnXkk)
 
 
-https://github.com/leeseomin/Modern-life  ("Modern life" project)
+https://github.com/leeseomin/Modern-life  ("Modern Human Life : short and long " project 2022 )
 
   <br/>  <br/> 
 
