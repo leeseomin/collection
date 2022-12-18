@@ -79,6 +79,10 @@ on youtube :  [https://youtu.be/0owECCNnXkk](https://youtube.com/shorts/0owECCNn
 
 https://github.com/leeseomin/Modern-life  ("Modern Human Life : short and long " project 2022 )
 
+
+
+https://github.com/leeseomin/oil-painting  ("various oil painting")
+
   <br/>  <br/> 
 
 ### Art collection  in NFT marketplace 
