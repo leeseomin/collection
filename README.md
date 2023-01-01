@@ -88,6 +88,8 @@ https://github.com/leeseomin/oil-painting-2 ("various oil painting 2")
 https://github.com/leeseomin/oil-painting-3 ("various oil painting 3")
 
 
+https://github.com/leeseomin/abstract_design  ("abstract design 1")
+
   <br/>  <br/> 
 
 ### Art collection  in NFT marketplace 
