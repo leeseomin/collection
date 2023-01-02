@@ -20,6 +20,15 @@ https://github.com/leeseomin/Abstract3 ("Abstract art" collection)
 
 https://github.com/leeseomin/Abstract4 ("Abstract art" collection)
 
+
+https://github.com/leeseomin/circle-abstract ("circle-abstract" project)
+
+
+https://github.com/leeseomin/Coordinates-being-and-duration   ("Coordinates,Being and Duration" project),  
+on youtube :  [https://youtu.be/0owECCNnXkk](https://youtube.com/shorts/0owECCNnXkk)
+
+
+
 https://github.com/leeseomin/concept_art  ("concept_art" collection)
 
 https://github.com/leeseomin/skull_abstract_butterfly ("skull, abstract, butterfly"  project) 
@@ -73,8 +82,6 @@ https://github.com/leeseomin/collaboration_with_AI_street_alley  ("collaboration
 
 https://github.com/leeseomin/Fairy-Tale-Village  ("Fairy-Tale-Village"), on youtube :  https://youtu.be/RUV0UzpZcvE
 
-https://github.com/leeseomin/Coordinates-being-and-duration   ("Coordinates,Being and Duration" project),  
-on youtube :  [https://youtu.be/0owECCNnXkk](https://youtube.com/shorts/0owECCNnXkk)
 
 
 https://github.com/leeseomin/Modern-life  ("Modern Human Life : short and long " project 2022 )
