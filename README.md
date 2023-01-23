@@ -27,6 +27,7 @@ https://github.com/leeseomin/circle-abstract ("circle-abstract" project)
 https://github.com/leeseomin/Coordinates-being-and-duration   ("Coordinates,Being and Duration" project),  
 on youtube :  [https://youtu.be/0owECCNnXkk](https://youtube.com/shorts/0owECCNnXkk)
 
+on Saatchi Art   https://www.saatchiart.com/account/artworks/2111145
 
 
 https://github.com/leeseomin/concept_art  ("concept_art" collection)
