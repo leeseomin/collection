@@ -14,6 +14,19 @@ On Saatchi Art   https://www.saatchiart.com/account/artworks/2111145
 
 
 
+### Contact 
+
+
+leeseomin@gmail.com 
+ 
+https://twitter.com/techne_0_1
+
+https://medium.com/@leeseomin
+
+https://linktr.ee/techne_0_1 
+
+
+
 
 ### Art project
 
@@ -153,15 +166,6 @@ https://github.com/leeseomin/chaos ("Chaos" collection)
 ### Poetry
 
 https://github.com/leeseomin/poem2022  
-
-### Contact 
-
-
-leeseomin@gmail.com 
- 
-https://twitter.com/techne_0_1
-
-https://linktr.ee/techne_0_1 
 
 
 
