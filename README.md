@@ -143,6 +143,8 @@ https://kalamint.io/user/techne_0_1   ( Kalamint )
 
 https://github.com/leeseomin/youtube-music-down-gui  (youtube audio downloader gui  유투브 음원 추출 앱 )
 
+https://github.com/leeseomin/simple_web_word (문서 글자수 체킹용 심플 웹기반 워드 )
+
 
 
 ###  other 
