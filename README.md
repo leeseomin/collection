@@ -141,7 +141,7 @@ https://kalamint.io/user/techne_0_1   ( Kalamint )
   
 ### App 앱 
 
-https://github.com/leeseomin/pdfminer_gui (pdfminer_gui,  pdf 문서 텍스트 추출기)
+https://github.com/leeseomin/pdfminer_gui (pdf to txt,  pdf 문서 텍스트 추출기)
 
 https://github.com/leeseomin/youtube-music-down-gui  (youtube audio downloader gui  유투브 음원 추출 앱 )
 
