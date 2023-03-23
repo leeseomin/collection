@@ -141,6 +141,8 @@ https://kalamint.io/user/techne_0_1   ( Kalamint )
   
 ### App 앱 
 
+https://github.com/leeseomin/ocrr  (OCR gui software based on Tesseract OCR : gui 기반의 OCR software)
+
 https://github.com/leeseomin/text-summarizer (text-summarizer :  text를 가져와서 이것을 요약하는 프로그램. BART 기반요약)
 
 https://github.com/leeseomin/PDF-summarizer (PDF-summarizer  :  pdf 에서 text 추출후 이것을 요약하는 프로그램. BART 기반요약)
