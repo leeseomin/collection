@@ -10,7 +10,6 @@
 
   <br/>  <br/> 
 
-On Saatchi Art   https://www.saatchiart.com/account/artworks/2111145
 
 
 
