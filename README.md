@@ -22,6 +22,8 @@ https://twitter.com/techne_0_1
 
 https://medium.com/@leeseomin
 
+https://leeseomin.substack.com/ 
+
 https://linktr.ee/techne_0_1 
 
 
