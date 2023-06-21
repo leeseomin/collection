@@ -20,9 +20,9 @@ leeseomin@gmail.com
  
 https://twitter.com/techne_0_1
 
-https://medium.com/@leeseomin
+https://medium.com/@leeseomin  (Short stories, etc.)
 
-https://leeseomin.substack.com/ 
+https://leeseomin.substack.com/ (Short stories, etc.)
 
 https://linktr.ee/techne_0_1 
 
