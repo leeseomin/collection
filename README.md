@@ -6,7 +6,7 @@
   
  ### :o: Visual Artist
   
- ### :o: Abstract Artist
+ ### :o: Writer
 
   <br/>  <br/> 
 
