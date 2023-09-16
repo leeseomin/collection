@@ -183,7 +183,6 @@ https://github.com/leeseomin/chaos ("Chaos" collection)
   
 ### Poetry
 
-https://github.com/leeseomin/poem2022  
 
 
 
