@@ -20,14 +20,16 @@ leeseomin@gmail.com
  
 https://twitter.com/techne_0_1
 
-https://medium.com/@leeseomin  (Short stories, etc.)
-
-https://leeseomin.substack.com/ (Short stories, etc.)
-
 https://linktr.ee/techne_0_1 
 
 
 
+### Short and novella fiction works
+
+
+https://medium.com/@leeseomin  (Short stories, etc.)
+
+https://leeseomin.substack.com/ (Short stories, etc.)
 
 
 
