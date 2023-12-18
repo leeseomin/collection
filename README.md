@@ -28,7 +28,8 @@ https://linktr.ee/techne_0_1
 
 **math gpt** (Solves math using step-by-step Python code) : https://chat.openai.com/g/g-Ou6WmqKgk-math-gpt 
 
-<br/> 
+  <br/>  <br/> 
+  
 
 ### Short and novella fiction works
 
