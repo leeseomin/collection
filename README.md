@@ -28,7 +28,7 @@ https://linktr.ee/techne_0_1
 
 **MATH gpt** (Solves math using step-by-step Python code) : https://chat.openai.com/g/g-Ou6WmqKgk-math-gpt 
 
-  DEMO : https://chat.openai.com/share/513d8a7e-6a7f-47fe-9f6b-59fd2ae189da
+DEMO 1 : https://chat.openai.com/share/513d8a7e-6a7f-47fe-9f6b-59fd2ae189da
 
   <br/>  <br/> 
   
