@@ -22,12 +22,13 @@ https://twitter.com/techne_0_1
 
 https://linktr.ee/techne_0_1 
 
-
+<br/> 
 
 ### GPTs
 
 **math gpt** (Solves math using step-by-step Python code) : https://chat.openai.com/g/g-Ou6WmqKgk-math-gpt 
 
+<br/> 
 
 ### Short and novella fiction works
 
