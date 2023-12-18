@@ -24,6 +24,11 @@ https://linktr.ee/techne_0_1
 
 
 
+### GPTs
+
+**math gpt** (Solves math using step-by-step Python code) : https://chat.openai.com/g/g-Ou6WmqKgk-math-gpt 
+
+
 ### Short and novella fiction works
 
 https://github.com/leeseomin/fictions  My Fiction Archive. 
