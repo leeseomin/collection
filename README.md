@@ -247,7 +247,7 @@ https://github.com/leeseomin/arte37
 
 https://github.com/leeseomin/arte45
 
-https://github.com/leeseomin/arte47
+https://github.com/leeseomin/arte47 : pixel art 
 
 https://github.com/leeseomin/arte840
 
