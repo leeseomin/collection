@@ -159,7 +159,7 @@ https://kalamint.io/user/techne_0_1   ( Kalamint )
   
 ### App 앱 
 
-https://github.com/leeseomin/PDF_PNG  (PDF_PNG : extract images from a PDF  : pdf파일에서 이미지들을 추출)
+https://github.com/leeseomin/PDF-PNG  (PDF-PNG : extract images from a PDF  : pdf파일에서 이미지들을 추출)
 
 https://github.com/leeseomin/ocrr  (OCR gui software based on Tesseract OCR : gui 기반의 OCR software)
 
