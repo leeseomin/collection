@@ -143,15 +143,11 @@ https://github.com/leeseomin/abstract_design  ("abstract design 1")
 
 ### Art collection  in NFT marketplace 
 
-
-https://async.art/u/leeseomin/collection  (Async Art )
-
 https://foundation.app/@Techne_0_1  ( Foundation )
 
 https://rarible.com/leeseomin    (Rarible)
 
-https://kalamint.io/user/techne_0_1   ( Kalamint )
-
+https://async.art/u/leeseomin/collection  (Async Art )
 
 
   <br/>  <br/>  
