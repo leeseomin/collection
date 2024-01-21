@@ -165,7 +165,7 @@ https://github.com/leeseomin/PDF-summarizer (PDF-summarizer  :  pdf 에서 text 
  
 https://github.com/leeseomin/pdfminer_gui (pdf to txt,  pdf 문서 텍스트 추출기)
 
-https://github.com/leeseomin/youtube-music-down-gui  (youtube audio downloader gui  유투브 음원 추출 앱 )
+https://github.com/leeseomin/yt-all  (youtube  downloader gui  유투브 음원 추출 앱 )
 
 https://github.com/leeseomin/simple_web_word (문서 글자수 체킹용 심플 웹기반 워드 )
 
