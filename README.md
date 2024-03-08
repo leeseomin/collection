@@ -155,7 +155,7 @@ https://async.art/u/leeseomin/collection  (Async Art )
   
 ### App 앱 
 
-https://github.com/leeseomin/CodeCollector :"A Gradio web app to download code files with specified extensions from a GitHub repository while preserving the directory structure." 
+https://github.com/leeseomin/CodeCollector : CodeCollector :A Gradio web app to download code files with specified extensions from a GitHub repository while preserving the directory structure." 
 
 https://github.com/leeseomin/PDF-PNG  (PDF-PNG : extract images from a PDF  : pdf파일에서 이미지들을 추출)
 
