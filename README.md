@@ -54,6 +54,7 @@ https://github.com/leeseomin/Abstract4 ("Abstract art" collection)
 
 https://github.com/leeseomin/Abstract5 ("Abstract art" collection)
 
+https://github.com/leeseomin/abstract6 ("Abstract art" collection) now ~ ing 
 
 https://github.com/leeseomin/circle-abstract ("circle-abstract" project)
 
