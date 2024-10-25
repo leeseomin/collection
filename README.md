@@ -18,8 +18,6 @@
 
 leeseomin@gmail.com 
  
-https://twitter.com/techne_0_1
-
 https://linktr.ee/techne_0_1 
 
 <br/> 
