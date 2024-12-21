@@ -206,7 +206,6 @@ https://github.com/leeseomin/chaos ("Chaos" collection)
 
 ### Algorithms
 
-graymondrian.art  : https://leeseomin-creative-art.github.io/mondrian-style/
 
 https://telegra.ph/Arte--art-algorithm-series-08-12 
 
