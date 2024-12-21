@@ -23,15 +23,6 @@ https://linktr.ee/techne_0_1
 <br/> 
 
 
-  
-
-### Short and novella fiction works
-
-https://github.com/leeseomin/fictions  My Fiction Archive. 
-
-https://medium.com/@leeseomin  (Short stories, etc.)
-
-https://leeseomin.substack.com/ (Short stories, etc.)
 
 
 
@@ -167,6 +158,17 @@ https://github.com/leeseomin/pdfminer_gui (pdf to txt,  pdf 문서 텍스트 추
 https://github.com/leeseomin/yt-all  (youtube  downloader gui  유투브 음원 추출 앱 )
 
 https://github.com/leeseomin/simple_web_word (문서 글자수 체킹용 심플 웹기반 워드 )
+
+
+
+### Short and novella fiction works
+
+https://github.com/leeseomin/fictions  My Fiction Archive. 
+
+https://medium.com/@leeseomin  (Short stories, etc.)
+
+https://leeseomin.substack.com/ (Short stories, etc.)
+
 
 
 
