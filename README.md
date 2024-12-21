@@ -210,7 +210,6 @@ https://github.com/leeseomin/chaos ("Chaos" collection)
 
 ### Algorithms
 
-https://github.com/leeseomin/rotate-and-merge  :   **rotate and merge operations on images  **
 
 https://telegra.ph/Arte--art-algorithm-series-08-12 
 
@@ -273,6 +272,8 @@ https://github.com/leeseomin/arte27
 https://github.com/leeseomin/arte57 
 
 https://github.com/leeseomin/arte59 
+
+https://github.com/leeseomin/rotate-and-merge  :   **rotate and merge operations on images  **
 
 
 
