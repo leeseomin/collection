@@ -131,7 +131,6 @@ https://foundation.app/@Techne_0_1  ( Foundation )
 
 https://rarible.com/leeseomin    (Rarible)
 
-https://async.art/u/leeseomin/collection  (Async Art )
 
 
   <br/>  <br/>  
