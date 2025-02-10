@@ -29,6 +29,9 @@ https://linktr.ee/techne_0_1
 ### Art project
 
 
+https://github.com/leeseomin/Coordinates-being-and-duration   ("Coordinates,Being and Duration" project),  
+on youtube :  [https://youtu.be/0owECCNnXkk](https://youtube.com/shorts/0owECCNnXkk)
+
 https://github.com/leeseomin/Abstract ("Abstract art" collection)
 
 https://github.com/leeseomin/Abstract3 ("Abstract art" collection)
@@ -42,8 +45,7 @@ https://github.com/leeseomin/abstract6 ("Abstract art" collection) now ~ ing
 https://github.com/leeseomin/circle-abstract ("circle-abstract" project)
 
 
-https://github.com/leeseomin/Coordinates-being-and-duration   ("Coordinates,Being and Duration" project),  
-on youtube :  [https://youtu.be/0owECCNnXkk](https://youtube.com/shorts/0owECCNnXkk)
+
 
 on Saatchi Art   https://www.saatchiart.com/account/artworks/2111145
 
