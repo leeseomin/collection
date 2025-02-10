@@ -55,24 +55,12 @@ https://github.com/leeseomin/concept_art  ("concept_art" collection)
 https://github.com/leeseomin/skull_abstract_butterfly ("skull, abstract, butterfly"  project) 
 
 https://github.com/leeseomin/robot_smile  ("Smiling of a robot whose 'will to live' is broken" project)
- 
-https://github.com/leeseomin/Relax-under-the-tree ("Relax under the tree" project)
-
-https://github.com/leeseomin/The-Girl-from-the-Emptiness  ("The Girl from the Emptiness" project)
-
-https://github.com/leeseomin/Unknown-Mediterranean ("Unknown Mediterranean" Art project)
-
-https://github.com/leeseomin/baobab  ("Baobab" project)
- 
-https://github.com/leeseomin/living_lake ("Living Lake" art project)
 
 https://vimeo.com/user80411483         ("Video Art" collection)
 
 https://github.com/leeseomin/mysoul ("My Soul" art project)
 
 https://github.com/leeseomin/Untitled ("Untitled" collection)
-
-https://github.com/leeseomin/dance ("Neural Dance" art collection) 
 
 https://github.com/leeseomin/block (Block collection)
 
@@ -85,27 +73,11 @@ https://github.com/leeseomin/pixelart  (Pixel collection)
 
 https://github.com/leeseomin/look_at  ("Look At" art project)
 
-
-
-https://github.com/leeseomin/Will_to_live ("Will to live" Art project)
-
-https://github.com/leeseomin/BTTG  ("Back To The Geometry" Art project)
-
-https://github.com/leeseomin/empty  ("empty" Art project)
-
-https://github.com/leeseomin/A-new-beginning ("A new beginning")
-
-https://github.com/leeseomin/paper-birch-tree ("paper-birch-tree")
-
 https://github.com/leeseomin/Robot_become_Singularity_1  ("Robot become Singularity" part_1)
 
 https://github.com/leeseomin/collaboration_with_AI_street_alley  ("collaboration with AI : street and alley landscape")
 
 https://github.com/leeseomin/Fairy-Tale-Village  ("Fairy-Tale-Village"), on youtube :  https://youtu.be/RUV0UzpZcvE
-
-
-
-https://github.com/leeseomin/Modern-life  ("Modern Human Life : short and long " project 2022 )
 
 
 
