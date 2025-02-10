@@ -49,29 +49,32 @@ https://github.com/leeseomin/circle-abstract ("circle-abstract" project)
 
 on Saatchi Art   https://www.saatchiart.com/account/artworks/2111145
 
+https://github.com/leeseomin/look_at  ("Look At" art project)
 
-https://github.com/leeseomin/concept_art  ("concept_art" collection)
-
-https://github.com/leeseomin/skull_abstract_butterfly ("skull, abstract, butterfly"  project) 
-
-https://github.com/leeseomin/robot_smile  ("Smiling of a robot whose 'will to live' is broken" project)
-
-https://vimeo.com/user80411483         ("Video Art" collection)
-
-https://github.com/leeseomin/mysoul ("My Soul" art project)
-
-https://github.com/leeseomin/Untitled ("Untitled" collection)
 
 https://github.com/leeseomin/block (Block collection)
 
 https://github.com/leeseomin/timaeus  ("Timaeus : speculation on the modern beauty")
 
+
+https://github.com/leeseomin/Untitled ("Untitled" collection) 
+
+https://github.com/leeseomin/mysoul ("My Soul" art project)
+
+https://github.com/leeseomin/concept_art  ("concept_art" collection)
+
+https://github.com/leeseomin/skull_abstract_butterfly ("skull, abstract, butterfly"  project) 
+
+
+https://vimeo.com/user80411483         ("Video Art" collection)
+
+
+
+
 https://github.com/leeseomin/minimal (Minimal collection)  
 
 https://github.com/leeseomin/pixelart  (Pixel collection) 
 
-
-https://github.com/leeseomin/look_at  ("Look At" art project)
 
 https://github.com/leeseomin/Robot_become_Singularity_1  ("Robot become Singularity" part_1)
 
