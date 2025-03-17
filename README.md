@@ -115,7 +115,7 @@ https://rarible.com/leeseomin    (Rarible)
   
 ### App 앱 
 
-https://github.com/leeseomin/homebrew-repox  : RepoX is a powerful utility for intelligently extracting core architecture files from GitHub repositories
+ https://github.com/leeseomin/RepoX : RepoX is a powerful utility for intelligently extracting core architecture files from GitHub repositories
 
 
 https://github.com/leeseomin/CodeCollector : CodeCollector :A Gradio web app to download code files with specified extensions from a GitHub repository while preserving the directory structure." 
