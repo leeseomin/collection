@@ -24,6 +24,20 @@ https://linktr.ee/techne_0_1
 
 
 
+### 주요 작업들. 
+
+https://github.com/leeseomin/Coordinates-being-and-duration   ("Coordinates,Being and Duration" project) 
+
+https://vimeo.com/user80411483 ("Video Art" collection) 
+
+https://github.com/leeseomin/block (block art project)
+
+
+https://rarible.com/leeseomin    (Rarible) 
+
+[https://foundation.app/@Techne_0_1](https://foundation.app/@Techne_0_1  ( Foundation ))
+
+
 
 
 ### Art project
