@@ -26,7 +26,7 @@ https://linktr.ee/techne_0_1
 
 ### 주요 작업들. 
 
-https://github.com/leeseomin/Coordinates-being-and-duration   ("Coordinates,Being and Duration" project) 
+https://www.saatchiart.com/en-kr/account/artworks/2111145   ("Coordinates,Being and Duration" project) 
 
 https://vimeo.com/user80411483 ("Video Art" collection) 
 
