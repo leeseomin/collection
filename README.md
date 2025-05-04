@@ -28,7 +28,9 @@ https://linktr.ee/techne_0_1
 
 https://www.saatchiart.com/en-kr/account/artworks/2111145   ("Coordinates,Being and Duration" project) 
 
-https://vimeo.com/user80411483 ("Video Art" collection) 
+https://vimeo.com/user80411483 ("Video Art" collection in vimeo) 
+
+https://www.youtube.com/@leeseomin/videos   ("Video Art" collection in youtube) 
 
 https://github.com/leeseomin/block (block art project)
 
