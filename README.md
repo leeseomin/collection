@@ -32,6 +32,8 @@ https://www.saatchiart.com/en-kr/account/artworks/2111145   ("Coordinates,Being 
 
 https://vimeo.com/user80411483 ("Video Art" collection in vimeo) 
 
+https://github.com/leeseomin/pixelart  :: pixelart project
+
 https://www.youtube.com/@leeseomin/videos   ("Video Art" collection in youtube) 
 
 https://github.com/leeseomin/block (block art project)
