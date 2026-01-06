@@ -240,7 +240,7 @@ https://github.com/leeseomin/arte28
 
 https://github.com/leeseomin/arte29
 
-https://github.com/leeseomin/arte30
+https://github.com/leeseomin/arte30 :  arte25 x array
 
 https://github.com/leeseomin/arte37
 
