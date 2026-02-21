@@ -28,7 +28,8 @@ https://linktr.ee/techne_0_1
 
 https://leeseomin-creative-art-portfolio.vercel.app/   ::    creative-art projects  portfolio
 
-https://www.saatchiart.com/en-kr/account/artworks/2111145   ("Coordinates,Being and Duration" project) 
+https://coordinates-being-and-duration.pages.dev/  :: ("Coordinates,Being and Duration" project) 
+
 
 https://vimeo.com/user80411483 ("Video Art" collection in vimeo) 
 
@@ -49,8 +50,13 @@ https://rarible.com/leeseomin    (Rarible)
 ### Art project
 
 
+
+
 https://github.com/leeseomin/Coordinates-being-and-duration   ("Coordinates,Being and Duration" project),  
 on youtube :  [https://youtu.be/0owECCNnXkk](https://youtube.com/shorts/0owECCNnXkk)
+https://www.saatchiart.com/en-kr/account/artworks/2111145   ("Coordinates,Being and Duration" project) 
+
+
 
 https://github.com/leeseomin/Abstract ("Abstract art" collection)
 
