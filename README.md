@@ -28,7 +28,9 @@ https://linktr.ee/techne_0_1
 
 https://leeseomin-creative-art-portfolio.vercel.app/   ::    creative-art projects  portfolio
 
-https://coordinates-being-and-duration.pages.dev/  :: ("Coordinates,Being and Duration" project) 
+https://coordinates-being-and-duration.pages.dev/  :: "Coordinates,Being and Duration" project
+
+https://skull-abstract-butterfly.pages.dev/  :: "skull, abstract, butterfly" art project (2022)
 
 
 https://vimeo.com/user80411483 ("Video Art" collection in vimeo) 
